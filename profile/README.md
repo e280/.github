@@ -7,7 +7,7 @@ buildercore syndicate.
 
 we build tools. while we're building, we find new problems, and make new tools.. it's tools all the way down.
 
-you should join us, unless you're a wannabe. we only accept true builders.
+you should join us, unless you're a wannabe.
 
 associates
 - https://benevolent.games/
