@@ -1,0 +1,90 @@
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+:root {
+	color-scheme: dark;
+	--link: cyan;
+}
+
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #333; border-radius: 1em; }
+::-webkit-scrollbar-thumb:hover { background: #444; }
+
+a {
+	color: var(--link);
+	text-decoration: none;
+
+	&:visited {
+		color: color-mix(in srgb, purple, var(--link) 70%);
+	}
+
+	&:hover {
+		color: color-mix(in srgb, white, var(--link) 90%);
+		text-decoration: underline;
+	}
+
+	&:active {
+		color: color-mix(in srgb, white, var(--link) 50%);
+	}
+}
+
+html, body {
+	font-size: 24px;
+	min-height: 100%;
+}
+
+html {
+	--primary: #3cff9c;
+	--halfmix: color-mix(in srgb, white, var(--primary) 50%);
+
+	font-family: "Share Tech", sans-serif;
+	color: color-mix(in srgb, transparent, var(--halfmix) 50%);
+	background:
+		linear-gradient(to bottom, #0008, #000e),
+		url("/assets/bg.avif");
+	background-size: cover;
+	background-position: center center;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding-top: 20vh;
+}
+
+.plate {
+	display: flex;
+	flex-direction: column;
+	gap: 0.67em;
+	padding: 10vh 10vw;
+	padding: 2em 6em;
+
+	max-width: 32em;
+	background: #4441;
+	backdrop-filter: blur(1em);
+	border-top: 1px solid #fff2;
+	border-radius: 1em;
+	box-shadow: 0 0.5em 1em #000a;
+
+	h1 {
+		font-size: 3em;
+		color: var(--halfmix);
+		text-shadow:
+			0 0 .2em var(--halfmix),
+			0 0 1em var(--primary),
+			0 0 1em var(--primary);
+	}
+
+	a {
+		text-shadow:
+			0 0 .2em color-mix(in srgb, #ffff, currentColor 80%),
+			0 0 1em color-mix(in srgb, #fff8, currentColor 80%);
+	}
+}
+
