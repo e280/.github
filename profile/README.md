@@ -1,7 +1,7 @@
 
 <div align="center"><img alt="" width=256 src="../assets/e.big.avif"/></div>
 
-# [e280.org](https://e280.org/)
+# https://e280.org/
 
 buildercore syndicate.
 
