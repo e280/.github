@@ -43,7 +43,7 @@ html {
 	--halfmix: color-mix(in srgb, white, var(--primary) 50%);
 
 	font-family: "Share Tech", sans-serif;
-	color: color-mix(in srgb, transparent, var(--halfmix) 50%);
+	color: color-mix(in srgb, transparent, var(--halfmix) 70%);
 
 	background:
 		linear-gradient(to bottom, #0004, #000a),
