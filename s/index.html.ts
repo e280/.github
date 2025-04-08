@@ -42,7 +42,7 @@ export default template(async basic => {
 				<h1>e280</h1>
 				<p>buildercore syndicate.</p>
 				<p>we build tools. while we're building, we find new problems, and make new tools.. it's tools all the way down.</p>
-				<p><a href="https://github.com/e280">https://github.com/e280</a></p>
+				<p class=offset><a href="https://github.com/e280">https://github.com/e280</a></p>
 			</section>
 		`,
 	})

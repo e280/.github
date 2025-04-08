@@ -44,8 +44,9 @@ html {
 
 	font-family: "Share Tech", sans-serif;
 	color: color-mix(in srgb, transparent, var(--halfmix) 50%);
+
 	background:
-		linear-gradient(to bottom, #0008, #000e),
+		linear-gradient(to bottom, #0004, #000a),
 		url("/assets/bg.avif");
 	background-size: cover;
 	background-position: center center;
@@ -55,17 +56,17 @@ body {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	padding-top: 20vh;
+	padding: 10vh 5vw;
 }
 
 .plate {
 	display: flex;
 	flex-direction: column;
-	gap: 0.67em;
-	padding: 10vh 10vw;
-	padding: 2em 6em;
 
+	gap: 0.67em;
+	padding: min(10vh, 4em) min(10vw, 4em);
 	max-width: 32em;
+
 	background: #4441;
 	backdrop-filter: blur(1em);
 	border-top: 1px solid #fff2;
@@ -85,6 +86,10 @@ body {
 		text-shadow:
 			0 0 .2em color-mix(in srgb, #ffff, currentColor 80%),
 			0 0 1em color-mix(in srgb, #fff8, currentColor 80%);
+	}
+
+	.offset {
+		text-align: right;
 	}
 }
 
