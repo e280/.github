@@ -8,12 +8,38 @@
 :root {
 	color-scheme: dark;
 	--link: cyan;
+	--primary: #3cff9c;
+	--halfmix: color-mix(in srgb, white, var(--primary) 50%);
 }
 
 ::-webkit-scrollbar { width: 4px; }
 ::-webkit-scrollbar-track { background: transparent; }
 ::-webkit-scrollbar-thumb { background: #333; border-radius: 1em; }
 ::-webkit-scrollbar-thumb:hover { background: #444; }
+
+html, body {
+	font-size: 24px;
+	height: 100%;
+}
+
+html {
+	font-family: "Share Tech", sans-serif;
+	color: color-mix(in srgb, transparent, var(--halfmix) 70%);
+
+	background:
+		radial-gradient(circle at center, #001006c7, #000),
+		url("/assets/bg2.avif") center center / cover;
+
+	background-size: cover;
+	background-position: center center;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: min(10vw, 8em);
+}
 
 a {
 	color: var(--link);
@@ -33,45 +59,22 @@ a {
 	}
 }
 
-html, body {
-	font-size: 24px;
-	min-height: 100%;
-}
-
-html {
-	--primary: #3cff9c;
-	--halfmix: color-mix(in srgb, white, var(--primary) 50%);
-
-	font-family: "Share Tech", sans-serif;
-	color: color-mix(in srgb, transparent, var(--halfmix) 70%);
-
-	background:
-		linear-gradient(to bottom, #0004, #000a),
-		url("/assets/bg.avif");
-	background-size: cover;
-	background-position: center center;
-}
-
-body {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	padding: 10vh 5vw;
-}
-
 .plate {
 	display: flex;
 	flex-direction: column;
 
 	gap: 0.67em;
-	padding: min(10vh, 4em) min(10vw, 4em);
+	padding: min(10vw, 4em);
 	max-width: 32em;
 
 	background: #4441;
-	backdrop-filter: blur(1em);
-	border-top: 1px solid #fff2;
+	backdrop-filter: blur(0.3em);
 	border-radius: 1em;
-	box-shadow: 0 0.5em 1em #000a;
+	border: 0.2em solid var(--halfmix);
+	box-shadow:
+		0 0 8em color-mix(in lch, transparent, var(--primary) 50%),
+		0 0 1em color-mix(in lch, transparent, var(--primary) 70%),
+		inset 0 0 5em color-mix(in lch, transparent, var(--primary) 50%);
 
 	h1 {
 		font-size: 3em;
@@ -82,14 +85,26 @@ body {
 			0 0 1em var(--primary);
 	}
 
+	blockquote {
+		display: flex;
+		flex-direction: column;
+		gap: 0.3em;
+
+		cite {
+			opacity: 0.5;
+			margin-left: 2em;
+		}
+	}
+
 	a {
 		text-shadow:
 			0 0 .2em color-mix(in srgb, #ffff, currentColor 80%),
 			0 0 1em color-mix(in srgb, #fff8, currentColor 80%);
 	}
 
-	.offset {
-		text-align: right;
+	footer {
+		margin-left: auto;
+		word-break: break-all;
 	}
 }
 
