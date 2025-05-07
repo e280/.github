@@ -3,17 +3,20 @@
 
 # https://e280.org/
 
-e280 is a buildercore web tooling collective. a loose crew of builders helping each other ship independent open source software. problems along the way are opportunities to build and share great tools together.
+**e280** is a new buildercore web tooling collective.  
+we help each other ship independent open source software.  
+problems along the way are opportunities to build and share tools together.  
 
-connect with us to join the collective.
+**join us**  
+&nbsp; &nbsp; https://discord.gg/PEmzK4bM3J  
 
-associates
-- https://authlocal.org/
-- https://benevolent.games/
-- https://omniclip.app/
+**associates**  
+&nbsp; &nbsp; https://authlocal.org/  
+&nbsp; &nbsp; https://benevolent.games/  
+&nbsp; &nbsp; https://omniclip.app/  
 
-associated tech
-- [slate,](https://github.com/benevolent-games/slate) frontend framework
-- [renraku,](https://github.com/chase-moskal/renraku) rpc api library
-- [importly,](https://github.com/chase-moskal/importly) import map generator
+**associated tech**  
+&nbsp; &nbsp; [slate,](https://github.com/benevolent-games/slate) frontend framework  
+&nbsp; &nbsp; [renraku,](https://github.com/chase-moskal/renraku) rpc api library  
+&nbsp; &nbsp; [importly,](https://github.com/chase-moskal/importly) import map generator  
 

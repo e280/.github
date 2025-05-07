@@ -1,5 +1,5 @@
 
 # https://e280.org/
 
-buildercore syndicate.
+web buildercore collective.
 

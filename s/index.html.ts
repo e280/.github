@@ -40,12 +40,16 @@ export default template(async basic => {
 		body: html`
 			<section class=plate>
 				<h1>e280</h1>
-				<blockquote>
-					<span>An old alchemist gave the following consolation to one of his disciples:</span>
-					<span>"No matter how isolated you are and how lonely you feel, if you do your work truly and conscientiously, unknown friends will come and seek you."</span>
-					<cite>— Carl Jung</cite>
-				</blockquote>
-				<footer><a href="https://github.com/e280">https://github.com/e280</a></footer>
+				<div class=inner>
+					<blockquote>
+						<span>An old alchemist gave the following consolation to one of his disciples:</span>
+						<span>"No matter how isolated you are and how lonely you feel, if you do your work truly and conscientiously, unknown friends will come and seek you."</span>
+						<cite>— Carl Jung</cite>
+					</blockquote>
+					<footer>
+						<a href="https://github.com/e280">https://github.com/e280</a>
+					</footer>
+				</div>
 			</section>
 		`,
 	})
