@@ -3,6 +3,9 @@
 
 # https://e280.org/
 
+> *“First we shape our tools, and thereafter our tools shape us.”*  
+> &nbsp; &nbsp; — *Marshall McLuhan*
+
 **e280** is a new buildercore web tooling collective.  
 we help each other ship independent open source software.  
 problems along the way are opportunities to build and share tools together.  
