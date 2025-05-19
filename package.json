@@ -24,7 +24,7 @@
 		"test": "exit 0"
 	},
 	"dependencies": {
-		"@benev/slate": "^0.3.3"
+		"@benev/slate": "^0.3.4"
 	},
 	"devDependencies": {
 		"@benev/turtle": "^0.6.12",
