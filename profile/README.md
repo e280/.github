@@ -11,7 +11,7 @@ we help each other ship independent open source software.
 problems along the way are opportunities to build and share tools together.  
 
 **join us**  
-&nbsp; &nbsp; https://discord.gg/PEmzK4bM3J  
+&nbsp; &nbsp; https://discord.gg/6CscFNz5GB  
 
 **associates**  
 &nbsp; &nbsp; https://authlocal.org/  
