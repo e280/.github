@@ -15,14 +15,16 @@ an academy for inspired acolytes, confined to the lesser discord channels until 
 we recognize true builders. no talkers. no wannabes.  
 right now, we're quietly building our first releases to prove our own worthiness.  
 
-founded by [@chase-moskal](https://github.com/chase-moskal) and [@zenkyuv](https://github.com/zenkyuv).  
-
 **connect with us**  
 &nbsp; https://discord.gg/6CscFNz5GB  
 
 **hire us**  
 &nbsp; outside work sharpens the blade and keeps us paid.  
 &nbsp; reach out.  
+
+**founded by**  
+&nbsp; [@chase-moskal](https://github.com/chase-moskal)  
+&nbsp; [@zenkyuv](https://github.com/zenkyuv)  
 
 **external projects**  
 &nbsp; https://benevolent.games/  
