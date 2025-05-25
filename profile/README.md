@@ -25,7 +25,6 @@ founded by [@chase-moskal](https://github.com/chase-moskal) and [@zenkyuv](https
 &nbsp; reach out.  
 
 **external projects**  
-&nbsp; https://authlocal.org/  
 &nbsp; https://benevolent.games/  
 &nbsp; https://omniclip.app/  
 &nbsp; [slate,](https://github.com/benevolent-games/slate) frontend framework  
