@@ -12,25 +12,24 @@
 		"s"
 	],
 	"scripts": {
-		"build": "rm -rf x && mkdir x && run-s _ln _code _ssg",
-		"_code": "turtle build --out=x",
-		"_ssg": "turtle ssg --in=s,x --out=x",
-		"start": "run-p _http _turtlewatch",
-		"_http": "http-server x",
-		"_turtlewatch": "turtle watch --in=s,x --out=x -v",
+		"build": "run-s _clean _tsc _ln _scute",
+		"start": "octo 'scute -vw' 'tsc -w' 'http-server x'",
+		"_clean": "rm -rf x && mkdir x",
+		"_tsc": "tsc",
+		"_scute": "scute -v",
 		"_ln": "run-s _ln:s _ln:assets",
 		"_ln:s": "ln -s \"$(realpath s)\" x/s",
 		"_ln:assets": "ln -s \"$(realpath assets)\" x/assets",
 		"test": "exit 0"
 	},
 	"dependencies": {
-		"@benev/slate": "^0.3.4"
+		"@e280/scute": "^0.1.0",
+		"@e280/sly": "^0.2.0-26"
 	},
 	"devDependencies": {
-		"@benev/turtle": "^0.6.12",
 		"http-server": "^14.1.1",
 		"npm-run-all": "^4.1.5",
-		"typescript": "^5.8.3"
+		"typescript": "^5.9.3"
 	},
 	"homepage": "https://github.com/e280/e280#readme",
 	"repository": {
