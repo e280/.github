@@ -3,24 +3,24 @@
 
 # https://e280.org/
 
-> *“First we shape our tools, and thereafter our tools shape us.”*  
-> &nbsp; &nbsp; — *Marshall McLuhan*
+> *“first we shape our tools, and thereafter our tools shape us.”*  
+> &nbsp; &nbsp; — *marshall mcluhan*
 
-**e280** is our wip elite buildercore dev cult.  
-we forge tools in the fire of real work.  
-we ship open source software.  
+**e280** is a buildcore webdev wizard's guild.  
+forging tools.  
+building products.  
+shipping open source.  
 
-a talent pool of dedicated monks who can build anything and cannot be stopped.  
-an academy for inspired acolytes, confined to the lesser discord channels until they earn their place.  
-we recognize true builders. no talkers. no wannabes.  
-right now, we're quietly building our first releases to prove our own worthiness.  
+**noble artifacts**  
+&nbsp; https://authlocal.org/  
+&nbsp; [@e280/sly](https://github.com/e280/sly#readme)  
+&nbsp; [@e280/strata](https://github.com/e280/strata#readme)  
+&nbsp; [@e280/shiny](https://github.com/e280/shiny#readme)  
 
 **connect with us**  
 &nbsp; https://discord.gg/6CscFNz5GB  
-
-**hire us**  
-&nbsp; outside work sharpens the blade and keeps us paid.  
-&nbsp; reach out.  
+&nbsp; join us if you're good at stuff  
+&nbsp; hire us if you need something done correctly  
 
 **founded by**  
 &nbsp; [@chase-moskal](https://github.com/chase-moskal)  
@@ -29,8 +29,4 @@ right now, we're quietly building our first releases to prove our own worthiness
 **external projects**  
 &nbsp; https://benevolent.games/  
 &nbsp; https://omniclip.app/  
-&nbsp; [slate,](https://github.com/benevolent-games/slate) frontend framework  
-&nbsp; [renraku,](https://github.com/chase-moskal/renraku) rpc api library  
-&nbsp; [importly,](https://github.com/chase-moskal/importly) import map generator  
-&nbsp; [argv,](https://github.com/benevolent-games/argv) cli arg parser  
 
