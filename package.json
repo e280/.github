@@ -23,8 +23,8 @@
 		"test": "exit 0"
 	},
 	"dependencies": {
-		"@e280/scute": "^0.1.0",
-		"@e280/sly": "^0.2.0-26"
+		"@e280/scute": "^0.1.2",
+		"@e280/sly": "^0.2.2"
 	},
 	"devDependencies": {
 		"http-server": "^14.1.1",
