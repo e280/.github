@@ -6,10 +6,10 @@
 > *“first we shape our tools, and thereafter our tools shape us.”*  
 > &nbsp; &nbsp; — *marshall mcluhan*
 
-**e280** is a buildcore webdev wizard's guild.  
-forging tools.  
-building products.  
-shipping open source.  
+**e280** is a buildercore webdev wizard's guild.  
+forge tools.  
+build products.  
+ship open source.  
 
 **noble artifacts**  
 &nbsp; https://authlocal.org/  
@@ -26,7 +26,7 @@ shipping open source.
 &nbsp; [@chase-moskal](https://github.com/chase-moskal)  
 &nbsp; [@zenkyuv](https://github.com/zenkyuv)  
 
-**external projects**  
+**associated projects**  
 &nbsp; https://benevolent.games/  
 &nbsp; https://omniclip.app/  
 
