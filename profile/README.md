@@ -7,9 +7,7 @@
 > &nbsp; &nbsp; — *marshall mcluhan*
 
 **e280** is a buildercore webdev wizard's guild.  
-forge tools.  
-build products.  
-ship open source.  
+better tools, better world.  
 
 **noble artifacts**  
 &nbsp; https://authlocal.org/  
@@ -27,6 +25,6 @@ ship open source.
 &nbsp; [@zenkyuv](https://github.com/zenkyuv)  
 
 **associated projects**  
-&nbsp; https://benevolent.games/  
+&nbsp; https://benev.gg/  
 &nbsp; https://omniclip.app/  
 
