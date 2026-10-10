@@ -8,7 +8,7 @@
 
 **e280** is a buildercore webdev wizard's guild.  
 better tools, better world.  
-this isn't vibe-coded slop.  
+hand-crafted.  
 
 **apps**  
 &nbsp; 🔐 [authlocal.org](https://authlocal.org/) own your identity  
