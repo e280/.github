@@ -15,13 +15,13 @@ hand-crafted.
 &nbsp; 🕰️ [whenst.org](https://whenst.org/) tell people when things are happening  
 
 **typescript libs**  
-&nbsp; 🦝 [@e280/sly](https://github.com/e280/sly) mischievous shadow views  
-&nbsp; ⛏️ [@e280/strata](https://github.com/e280/strata) incredi state management  
-&nbsp; ⛩️ [@e280/renraku](https://github.com/e280/renraku) make beautiful typescript apis  
+&nbsp; 🦝 [@e280/sly](https://github.com/e280/sly) we're doing shadow views now  
+&nbsp; ⛩️ [@e280/renraku](https://github.com/e280/renraku) make a beautiful typescript api  
+&nbsp; ⛏️ [@e280/strata](https://github.com/e280/strata) we're managing state  
 &nbsp; 🪇 [@e280/kv](https://github.com/e280/kv) tiny key-value storage library  
 &nbsp; 🦣 [@e280/mammoth](https://github.com/e280/mammoth) big file storage  
-&nbsp; 🏂 [@e280/stz](https://github.com/e280/stz) my typescript everyday carry  
 &nbsp; 🔐 [@e280/authlocal](https://github.com/e280/authlocal) user-sovereign logins  
+&nbsp; 🏂 [@e280/stz](https://github.com/e280/stz) my typescript everyday carry  
 
 **devtools**  
 &nbsp; 🐢 [@e280/scute](https://github.com/e280/scute) buildy bundly buddy  
