@@ -12,11 +12,12 @@ hand-crafted.
 
 **apps**  
 &nbsp; 🔐 [authlocal.org](https://authlocal.org/) own your identity  
+&nbsp; 🤫 [pastesafe.org](https://pastesafe.org/) secrets in public  
 &nbsp; 🕰️ [whenst.org](https://whenst.org/) tell people when things are happening  
 
 **typescript libs**  
-&nbsp; 🦝 [@e280/sly](https://github.com/e280/sly) we're doing shadow views now  
 &nbsp; ⛩️ [@e280/renraku](https://github.com/e280/renraku) make a beautiful typescript api  
+&nbsp; 🦝 [@e280/sly](https://github.com/e280/sly) we're doing shadow views now  
 &nbsp; ⛏️ [@e280/strata](https://github.com/e280/strata) we're managing state  
 &nbsp; 🪇 [@e280/kv](https://github.com/e280/kv) tiny key-value storage library  
 &nbsp; 🦣 [@e280/mammoth](https://github.com/e280/mammoth) big file storage  
